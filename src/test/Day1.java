@@ -13,6 +13,10 @@ public class Day1 {
 		System.out.println("Hello");
 		System.out.println("Hello1");
 		System.out.println("Hello2");
+		System.out.println("Hello3");
+		System.out.println("Hell04");
+		System.out.println("Hello5");
+		System.out.println("Hello6");
 		System.out.println(url);
 	}
 	
