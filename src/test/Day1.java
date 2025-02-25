@@ -11,6 +11,8 @@ public class Day1 {
 	public void Demo(String url)
 	{
 		System.out.println("Hello");
+		System.out.println("Hello1");
+		System.out.println("Hello2");
 		System.out.println(url);
 	}
 	
