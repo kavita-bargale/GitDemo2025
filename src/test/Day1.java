@@ -24,6 +24,11 @@ public class Day1 {
 	public void SecondTest()
 	{
 		System.out.println("world");
+		System.out.println("wide");
+		System.out.println("web");
+		System.out.println("world");
+		System.out.println("wide");
+		System.out.println("web");
 	}
 	
 	@org.testng.annotations.BeforeTest
