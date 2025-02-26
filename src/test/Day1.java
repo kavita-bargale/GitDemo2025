@@ -31,6 +31,13 @@ public class Day1 {
 		System.out.println("web");
 	}
 	
+	@Test
+	public void SecondTest1()
+	{
+		System.out.println("EST guys work");
+		System.out.println("wide");
+	}
+	
 	@org.testng.annotations.BeforeTest
 	public void BeforeTest()
 	{
